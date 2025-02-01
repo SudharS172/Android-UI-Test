@@ -1,0 +1,47 @@
+com.android.systemui.agentic.SystemUI-jetified-ui-graphics-release-0 /Users/sudhar/.gradle/caches/8.12.1/transforms/029ac55785a3502dc85bcc88b1434078/transformed/jetified-ui-graphics-release/res
+com.android.systemui.agentic.SystemUI-core-runtime-2.2.0-1 /Users/sudhar/.gradle/caches/8.12.1/transforms/03876a74cbfd18d5cf93be26068083b4/transformed/core-runtime-2.2.0/res
+com.android.systemui.agentic.SystemUI-jetified-runtime-saveable-release-2 /Users/sudhar/.gradle/caches/8.12.1/transforms/0582b946513351287fef9ee5661b729e/transformed/jetified-runtime-saveable-release/res
+com.android.systemui.agentic.SystemUI-jetified-lifecycle-process-2.6.1-3 /Users/sudhar/.gradle/caches/8.12.1/transforms/07d1223795f1dd3987778cea87fc79e8/transformed/jetified-lifecycle-process-2.6.1/res
+com.android.systemui.agentic.SystemUI-jetified-runtime-release-4 /Users/sudhar/.gradle/caches/8.12.1/transforms/08df2a3cd71c0b5b157d245a03ec908a/transformed/jetified-runtime-release/res
+com.android.systemui.agentic.SystemUI-jetified-animation-core-release-5 /Users/sudhar/.gradle/caches/8.12.1/transforms/0fc9f6e4fc62f6673482965a91db1c19/transformed/jetified-animation-core-release/res
+com.android.systemui.agentic.SystemUI-jetified-lifecycle-viewmodel-savedstate-2.6.1-6 /Users/sudhar/.gradle/caches/8.12.1/transforms/1343223468ab58fd3ff94c8bbe3e9ceb/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.android.systemui.agentic.SystemUI-jetified-ui-unit-release-7 /Users/sudhar/.gradle/caches/8.12.1/transforms/1c543c237aec64d08dbc9182fb5b8bc4/transformed/jetified-ui-unit-release/res
+com.android.systemui.agentic.SystemUI-jetified-ui-util-release-8 /Users/sudhar/.gradle/caches/8.12.1/transforms/333c0308c465b009c45e085e87211ecc/transformed/jetified-ui-util-release/res
+com.android.systemui.agentic.SystemUI-jetified-activity-ktx-1.8.1-9 /Users/sudhar/.gradle/caches/8.12.1/transforms/37389426f0d56af19610a11985f040a1/transformed/jetified-activity-ktx-1.8.1/res
+com.android.systemui.agentic.SystemUI-lifecycle-runtime-2.6.1-10 /Users/sudhar/.gradle/caches/8.12.1/transforms/4163b1366e35c2d0430e36bb3a3b08ee/transformed/lifecycle-runtime-2.6.1/res
+com.android.systemui.agentic.SystemUI-jetified-appcompat-resources-1.6.1-11 /Users/sudhar/.gradle/caches/8.12.1/transforms/444199a310edfcccf9fb94eb868baba5/transformed/jetified-appcompat-resources-1.6.1/res
+com.android.systemui.agentic.SystemUI-jetified-ui-text-release-12 /Users/sudhar/.gradle/caches/8.12.1/transforms/5992e56e323e69f94c1d087651c7748a/transformed/jetified-ui-text-release/res
+com.android.systemui.agentic.SystemUI-jetified-savedstate-1.2.1-13 /Users/sudhar/.gradle/caches/8.12.1/transforms/5e846553a8bf7ebd1cc3afe2ceaab5d2/transformed/jetified-savedstate-1.2.1/res
+com.android.systemui.agentic.SystemUI-jetified-activity-compose-1.8.1-14 /Users/sudhar/.gradle/caches/8.12.1/transforms/6e18efe00c411187b925731b9a99a77b/transformed/jetified-activity-compose-1.8.1/res
+com.android.systemui.agentic.SystemUI-jetified-core-ktx-1.10.0-15 /Users/sudhar/.gradle/caches/8.12.1/transforms/6eb7c067de58e670fa824a0a03f39883/transformed/jetified-core-ktx-1.10.0/res
+com.android.systemui.agentic.SystemUI-jetified-foundation-release-16 /Users/sudhar/.gradle/caches/8.12.1/transforms/785b67d16a3fbec8fc7c669a1f42a5ff/transformed/jetified-foundation-release/res
+com.android.systemui.agentic.SystemUI-jetified-lifecycle-viewmodel-ktx-2.6.1-17 /Users/sudhar/.gradle/caches/8.12.1/transforms/7e9d9a47cc7c1ed89298f55cc109c12b/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/res
+com.android.systemui.agentic.SystemUI-lifecycle-livedata-core-2.6.1-18 /Users/sudhar/.gradle/caches/8.12.1/transforms/7f605b8d8fc9a0449bf310698e9c32a3/transformed/lifecycle-livedata-core-2.6.1/res
+com.android.systemui.agentic.SystemUI-appcompat-1.6.1-19 /Users/sudhar/.gradle/caches/8.12.1/transforms/86246adf5ad3c7573f431576dc33afd4/transformed/appcompat-1.6.1/res
+com.android.systemui.agentic.SystemUI-jetified-lifecycle-runtime-ktx-2.6.1-20 /Users/sudhar/.gradle/caches/8.12.1/transforms/89f2d3ab5cf85a5ba93b4dc7f184cba2/transformed/jetified-lifecycle-runtime-ktx-2.6.1/res
+com.android.systemui.agentic.SystemUI-jetified-ui-release-21 /Users/sudhar/.gradle/caches/8.12.1/transforms/8d20fc7150f95b3d1bb6a220f4e849a6/transformed/jetified-ui-release/res
+com.android.systemui.agentic.SystemUI-jetified-annotation-experimental-1.3.0-22 /Users/sudhar/.gradle/caches/8.12.1/transforms/915248214e93ff59746e4ee43f871fdb/transformed/jetified-annotation-experimental-1.3.0/res
+com.android.systemui.agentic.SystemUI-jetified-emoji2-1.4.0-23 /Users/sudhar/.gradle/caches/8.12.1/transforms/92ec5a05a1f9fdbc073c5e477ce200c6/transformed/jetified-emoji2-1.4.0/res
+com.android.systemui.agentic.SystemUI-jetified-material3-1.1.2-24 /Users/sudhar/.gradle/caches/8.12.1/transforms/93f13c8965dd0d56e682ceac8a58dd5f/transformed/jetified-material3-1.1.2/res
+com.android.systemui.agentic.SystemUI-lifecycle-viewmodel-2.6.1-25 /Users/sudhar/.gradle/caches/8.12.1/transforms/9b0c410834c6efa7709ba7158c732062/transformed/lifecycle-viewmodel-2.6.1/res
+com.android.systemui.agentic.SystemUI-jetified-material-ripple-1.4.1-26 /Users/sudhar/.gradle/caches/8.12.1/transforms/a3aa6f0068c5ad1c54d0f6316dbb085e/transformed/jetified-material-ripple-1.4.1/res
+com.android.systemui.agentic.SystemUI-jetified-emoji2-views-helper-1.4.0-27 /Users/sudhar/.gradle/caches/8.12.1/transforms/a7951d62bc8736a7db55b6e36d1e7e9b/transformed/jetified-emoji2-views-helper-1.4.0/res
+com.android.systemui.agentic.SystemUI-jetified-savedstate-ktx-1.2.1-28 /Users/sudhar/.gradle/caches/8.12.1/transforms/aa61e3a1fa57d34a7ca1d75602e924cb/transformed/jetified-savedstate-ktx-1.2.1/res
+com.android.systemui.agentic.SystemUI-jetified-profileinstaller-1.3.0-29 /Users/sudhar/.gradle/caches/8.12.1/transforms/aa952398e3b0b60a3563b599b55fac0e/transformed/jetified-profileinstaller-1.3.0/res
+com.android.systemui.agentic.SystemUI-lifecycle-livedata-2.6.1-30 /Users/sudhar/.gradle/caches/8.12.1/transforms/b90f46d2bfcd633a82949fdb62b4a561/transformed/lifecycle-livedata-2.6.1/res
+com.android.systemui.agentic.SystemUI-core-1.10.0-31 /Users/sudhar/.gradle/caches/8.12.1/transforms/b9e0945525339264cc974bd0ea55d8b0/transformed/core-1.10.0/res
+com.android.systemui.agentic.SystemUI-jetified-animation-release-32 /Users/sudhar/.gradle/caches/8.12.1/transforms/ba410333beee6c0b0ad9252e05782fb1/transformed/jetified-animation-release/res
+com.android.systemui.agentic.SystemUI-jetified-customview-poolingcontainer-1.0.0-33 /Users/sudhar/.gradle/caches/8.12.1/transforms/ba4929fcd15e58371da3154b7648d004/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.android.systemui.agentic.SystemUI-jetified-startup-runtime-1.1.1-34 /Users/sudhar/.gradle/caches/8.12.1/transforms/bda5c4fb483cf81d218fe630f20b24cc/transformed/jetified-startup-runtime-1.1.1/res
+com.android.systemui.agentic.SystemUI-jetified-ui-geometry-release-35 /Users/sudhar/.gradle/caches/8.12.1/transforms/c56dcb9488ef64635ee5f2d91d7d2754/transformed/jetified-ui-geometry-release/res
+com.android.systemui.agentic.SystemUI-jetified-material-icons-core-1.4.1-36 /Users/sudhar/.gradle/caches/8.12.1/transforms/c622a51a0dd7bd58a400d41d5b352737/transformed/jetified-material-icons-core-1.4.1/res
+com.android.systemui.agentic.SystemUI-jetified-foundation-layout-release-37 /Users/sudhar/.gradle/caches/8.12.1/transforms/d028610a5c593253cfa68c48a9d015cc/transformed/jetified-foundation-layout-release/res
+com.android.systemui.agentic.SystemUI-jetified-activity-1.8.1-38 /Users/sudhar/.gradle/caches/8.12.1/transforms/e19b71c3f87052ce7bcd89362c89e28e/transformed/jetified-activity-1.8.1/res
+com.android.systemui.agentic.SystemUI-fragment-1.3.6-39 /Users/sudhar/.gradle/caches/8.12.1/transforms/ee032831de5febc57e1eb045f2dbef67/transformed/fragment-1.3.6/res
+com.android.systemui.agentic.SystemUI-pngs-40 /Users/sudhar/Downloads/APP/Android New Dev/packages/SystemUI/build/generated/res/pngs/release
+com.android.systemui.agentic.SystemUI-resValues-41 /Users/sudhar/Downloads/APP/Android New Dev/packages/SystemUI/build/generated/res/resValues/release
+com.android.systemui.agentic.SystemUI-packageReleaseResources-42 /Users/sudhar/Downloads/APP/Android New Dev/packages/SystemUI/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.android.systemui.agentic.SystemUI-packageReleaseResources-43 /Users/sudhar/Downloads/APP/Android New Dev/packages/SystemUI/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.android.systemui.agentic.SystemUI-merged_res-44 /Users/sudhar/Downloads/APP/Android New Dev/packages/SystemUI/build/intermediates/merged_res/release
+com.android.systemui.agentic.SystemUI-main-45 /Users/sudhar/Downloads/APP/Android New Dev/packages/SystemUI/src/main/res
+com.android.systemui.agentic.SystemUI-release-46 /Users/sudhar/Downloads/APP/Android New Dev/packages/SystemUI/src/release/res

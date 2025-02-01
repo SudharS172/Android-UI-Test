@@ -1,0 +1,27 @@
+android_app {
+    name: "SystemUI",
+    srcs: ["src/**/*.kt"],
+    static_libs: [
+        "androidx.compose.runtime_runtime",
+        "androidx.compose.material3_material3",
+        "androidx.activity_activity-compose",
+    ],
+    platform_apis: true,
+    certificate: "platform",
+    privileged: true,
+    optimize: {
+        enabled: true,
+    },
+}
+
+android_test {
+    name: "SystemUITests",
+    srcs: ["src/androidTest/**/*.kt"],
+    static_libs: [
+        "androidx.test.ext.junit",
+        "androidx.test.espresso.core",
+        "androidx.compose.ui.test.junit4",
+    ],
+    test_suites: ["device-tests"],
+    certificate: "platform",
+}
