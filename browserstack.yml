@@ -1,0 +1,13 @@
+app: packages/SystemUI/build/outputs/apk/debug/SystemUI-debug.apk
+devices:
+  - Google Pixel 7-13.0
+  - Samsung Galaxy S23-13.0
+  - OnePlus 9-11.0
+
+testing:
+  type: espresso
+  app_package: com.android.systemui
+  app_activity: com.android.systemui.agentic.TestActivity
+  test_framework: espresso
+
+job_timeout: 30
